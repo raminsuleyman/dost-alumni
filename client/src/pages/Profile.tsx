@@ -25,7 +25,7 @@ export default function Profile() {
           <Link href="/">
             <div className="flex items-center gap-2 cursor-pointer hover:opacity-80 transition">
               <img 
-                src="/manus-storage/dost-alumni-logo_69658aba.png" 
+                src="/dost-alumni-logo.webp" 
                 alt="DOST Alumni" 
                 className="w-8 h-8"
               />

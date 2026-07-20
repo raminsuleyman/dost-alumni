@@ -17,7 +17,7 @@ export default function Login() {
         <Link href="/">
           <div className="flex items-center justify-center gap-2 mb-12 cursor-pointer hover:opacity-80 transition">
             <img 
-              src="/manus-storage/dost-alumni-logo_69658aba.png" 
+              src="/dost-alumni-logo.webp" 
               alt="DOST Alumni" 
               className="w-10 h-10"
             />

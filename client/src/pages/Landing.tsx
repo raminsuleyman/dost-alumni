@@ -18,7 +18,7 @@ export default function Landing() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <img 
-              src="/manus-storage/dost-alumni-logo_69658aba.png" 
+              src="/dost-alumni-logo.webp" 
               alt="DOST Alumni" 
               className="w-8 h-8"
             />
@@ -78,7 +78,7 @@ export default function Landing() {
             {/* Right: Illustration */}
             <div className="flex justify-center">
               <img 
-                src="/manus-storage/hero-volunteers_6aba0e04.png" 
+                src="/hero-volunteers.webp" 
                 alt="Volunteer Community" 
                 className="w-full h-auto rounded-2xl shadow-lg"
               />
